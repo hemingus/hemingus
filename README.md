@@ -11,7 +11,7 @@
 ## 🔧 Tech Stack  
 
 ### **Frontend**  
-- 🚀 **Languages:** TypeScript, JavaScript, HTML, CSS  
+- 🚀 **Languages:** [TypeScript](https://camo.githubusercontent.com/52daccc3bcb0d8f0e52ae3078743a2c76cfebf5332e2933590b9a48b95038ad2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3331373843363f6c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465), JavaScript, HTML, CSS  
 - 🎨 **Frameworks & Libraries:** React, Next.js, SASS, Tailwind  
 
 ### **Backend**  
