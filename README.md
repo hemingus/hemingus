@@ -11,7 +11,9 @@
 ## 🔧 Tech Stack  
 
 ### **Frontend**  
-- 🚀 **Languages:** <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;"><img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="32" alt="JavaScript" style="margin-right: 4px">, JavaScript, HTML, CSS  
+- 🚀 **Languages:** <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="32" alt="JavaScript" style="margin-right: 4px">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="32" alt="TypeScript" style="margin-right: 4px">
 - 🎨 **Frameworks & Libraries:** React, Next.js, SASS, Tailwind  
 
 ### **Backend**  
