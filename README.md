@@ -15,15 +15,6 @@
 - 💾 **Languages:** C#, Java, Python, SQL  
 - ⚙️ **Technologies:** .NET Core, CosmosDB  
 
----
-
-## 📌 Featured Projects  
-
-🔹 [**Syntax Sprout**](https://github.com/hemingus/syntax-sprout) – Short description of project 1  
-🔹 [**Focus Director**](https://github.com/hemingus/focus-director) – Short description of project 2  
-
----
-
 ## 🎓 Education  
 🎓 **Bachelor's Degree in Data Technology**  
 📍 University of Bergen  
@@ -31,7 +22,7 @@
 ---
 
 ## 📫 Let's Connect!  
-🔗 [LinkedIn]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/heming-hanevik/)  
+🔗 [LinkedIn]([https://www.linkedin.com/in/heming-hanevik/]  
 📧 Email: Heming.hanevik@gmail.com  
 🌐 [Portfolio](https://heminghanevik.link)  
 
