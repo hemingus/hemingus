@@ -1,3 +1,6 @@
+
+![abstract_code_art](https://github.com/user-attachments/assets/7e6c5f5f-5f03-4aa6-b551-b11fccb31d19)
+
 # 👋 Hi, I'm Heming
 
 🚀 **Frontend Developer** | Passionate about building dynamic web applications  
