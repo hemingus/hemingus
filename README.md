@@ -3,7 +3,7 @@
 
 # 👋 Hi, I am Heming 
 
-🚀 **Frontend Developer** | Passionate about building dynamic web applications  
+🚀 **Fullstack Developer** | Passionate about building dynamic web applications  
 💡 Focused on **React, Next.js, and modern web technologies**  
 
 ## 📫 Let's Connect!  
