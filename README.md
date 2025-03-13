@@ -17,7 +17,9 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="32" alt="TypeScript" style="margin-right: 4px">
 </div>
 - 🎨 **Frameworks & Libraries:** React, Next.js, SASS, Tailwind  
-
+<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
+<img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="32" alt="React" style="margin-right: 4px">
+</div>
 ### **Backend**  
 - 💾 **Languages:** C#, Java, Python, SQL  
 - ⚙️ **Technologies:** .NET Core, CosmosDB  
