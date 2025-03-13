@@ -28,7 +28,3 @@
 🔗 [LinkedIn]([https://www.linkedin.com/in/heming-hanevik/]  
 📧 Email: Heming.hanevik@gmail.com  
 🌐 [Portfolio](https://heminghanevik.link)  
-
----
-
-⭐ **Fun Fact:** I love exploring new tech stacks and contributing to open-source projects!
