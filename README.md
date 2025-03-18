@@ -17,25 +17,21 @@
 ### **Frontend**  
 - 🚀 **Languages:**
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 4px; justify-content: left;">
-<p align="left">
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" alt="TypeScript"/>
-  <br>TypeScript
-</p>
 
-<p align="left">
+
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/>
-  <br>JavaScript
-</p>
+ 
 
-<p align="left">
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML"/>
-  <br>HTML
-</p>
 
-<p align="left">
+
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS"/>
-  <br>CSS
-</p>
+  
 </div>
 
 <div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
