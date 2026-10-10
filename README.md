@@ -3,7 +3,7 @@
 
 <a href="https://heming.studio" target="_blank">
   <img
-    src="assets/heming-studio.png"
+    src="heming-studio.png"
     alt="Heming Studio"
     width="650"
   />
