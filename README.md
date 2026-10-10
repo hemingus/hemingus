@@ -1,57 +1,29 @@
 
-![abstract_code_art](https://github.com/user-attachments/assets/7e6c5f5f-5f03-4aa6-b551-b11fccb31d19)
 
-# 👋 Hi, I am Heming 
+<div align="center">
 
-🚀 **Fullstack Developer** | Passionate about building dynamic web applications  
-💡 Focused on **React, Next.js, and modern web technologies**  
+![Heming — Fullstack Developer](assets/banner.png)
 
-## 📫 Let's Connect!  
-🔗 [LinkedIn]([https://www.linkedin.com/in/heming-hanevik/]  
-📧 Email: Heming.hanevik@gmail.com  
-🌐 [Portfolio](https://heminghanevik.link)  
+### Fullstack Developer · AI-Augmented Development
+
+Building modern web applications, exploring new technologies,
+and embracing AI-powered workflows to turn ideas into reality.
+
+[Portfolio](https://heminghanevik.link) · [LinkedIn](https://www.linkedin.com/in/heming-hanevik/) · [Email](mailto:heming.hanevik@gmail.com)
+
+</div>
+
 ---
 
-## 🔧 Tech Stack  
+### // What I Do
 
-### **Frontend**  
-- 🚀 **Languages:**
-<div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 4px; justify-content: left;">
+**01 — Fullstack Development**  
+Creating intuitive, scalable web applications from concept to deployment.
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" alt="TypeScript"/>
+**02 — AI-Augmented Workflows**  
+Integrating AI tools into the development process to accelerate learning, experimentation, and problem-solving.
 
-
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/>
- 
-
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML"/>
-
-
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS"/>
-  
-</div>
-
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="32" alt="JavaScript" style="margin-right: 4px">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="32" alt="TypeScript" style="margin-right: 4px">
-</div>
-
-<div style="display: flex; flex-wrap: wrap; gap: 4px; justify-content: left;">
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="32" alt="React" style="margin-right: 4px">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="32" alt="Tailwind CSS" style="margin-right: 4px">
-</div>
-
-### **Backend**  
-- 💾 **Languages:** C#, Java, Python, SQL  
-- ⚙️ **Technologies:** .NET Core, CosmosDB  
-
-## 🎓 Education  
-🎓 **Bachelor's Degree in Data Technology**  
-📍 University of Bergen  
-
----
+**03 — Continuous Exploration**  
+Always experimenting, building, and looking for better ways to create software.
 
 
