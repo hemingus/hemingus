@@ -1,29 +1,43 @@
+<div align="center">
 
+<a href="https://heming.studio" title="Visit Heming Studio">
+  <img src="assets/heming-studio.png" alt="Heming Studio — visit heming.studio" width="100%" />
+</a>
+
+FULLSTACK DEVELOPER × AI-AUGMENTED DEVELOPMENT
+Building modern web applications, exploring emerging technologies,
+and using AI-powered workflows to turn ideas into reality.
+
+Heming Studio ↗  ·  LinkedIn ↗  ·  Email ↗
+</div>
+
+// CURRENT FOCUS
+<table>
+<tr>
+<td width="33%" valign="top">
+
+01 / BUILD
+Fullstack Development
+Creating intuitive, scalable web applications from concept to deployment.
+</td>
+<td width="33%" valign="top">
+
+02 / AUGMENT
+AI-Powered Workflows
+Integrating AI into development to accelerate learning, experimentation, and problem-solving.
+</td>
+<td width="33%" valign="top">
+
+03 / EXPLORE
+Continuous Exploration
+Experimenting with emerging technologies and finding better ways to build software.
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-![Heming — Fullstack Developer](assets/banner.png)
-
-### Fullstack Developer · AI-Augmented Development
-
-Building modern web applications, exploring new technologies,
-and embracing AI-powered workflows to turn ideas into reality.
-
-[Portfolio](https://heminghanevik.link) · [LinkedIn](https://www.linkedin.com/in/heming-hanevik/) · [Email](mailto:heming.hanevik@gmail.com)
-
+BUILD  ·  LEARN  ·  EVOLVE
 </div>
-
----
-
-### // What I Do
-
-**01 — Fullstack Development**  
-Creating intuitive, scalable web applications from concept to deployment.
-
-**02 — AI-Augmented Workflows**  
-Integrating AI tools into the development process to accelerate learning, experimentation, and problem-solving.
-
-**03 — Continuous Exploration**  
-Always experimenting, building, and looking for better ways to create software.
 
 
