@@ -36,49 +36,42 @@ and leveraging AI-powered workflows to turn ideas into reality.
 
 ---
 
-### `// CURRENT FOCUS`
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### `01 / BUILD`
-
-**Fullstack Development**
-
-Creating intuitive, scalable web applications from concept to deployment.
-
-</td>
-<td width="33%" valign="top">
-
-### `02 / AUGMENT`
-
-**AI-Powered Workflows**
-
-Integrating AI into development to accelerate learning, experimentation, and problem-solving.
-
-</td>
-<td width="33%" valign="top">
-
-### `03 / EXPLORE`
-
-**Continuous Exploration**
-
-Experimenting with emerging technologies and finding better ways to build software.
-
-</td>
-</tr>
-</table>
-
-<br>
 
 <div align="center">
 
-`BUILD` &nbsp; · &nbsp; `LEARN` &nbsp; · &nbsp; `EVOLVE`
+
 
 <br><br>
 
-<sub>© Heming Studio · Built with curiosity, driven by innovation.</sub>
+### `FULLSTACK DEVELOPER` × `AI-AUGMENTED DEVELOPMENT`
+
+Building modern web applications, exploring emerging technologies,  
+and embracing AI-powered workflows to turn ideas into reality.
+
+<br>
+&nbsp;
+<a href="https://www.linkedin.com/in/heming-hanevik/">
+  <img src="https://img.shields.io/badge/LINKEDIN-168AFF?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:heming.hanevik@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-202A38?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
+
+<a href="https://heming.studio">
+  <img src="assets/heming-studio.png"
+       alt="Heming Studio"
+       width="600" />
+</a>
+
+<br><br>
+
+`BUILD` &nbsp; · &nbsp; `LEARN` &nbsp; · &nbsp; `EVOLVE`
+
+</div>
+
 
 </div>
 
