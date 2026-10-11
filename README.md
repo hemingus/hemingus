@@ -31,7 +31,7 @@ and leveraging AI-powered workflows to turn ideas into reality.
   <img
     src="heming-studio (2).png"
     alt="Heming Studio"
-    width="650"
+    width="250"
   />
 </a>
 
