@@ -9,13 +9,16 @@ Building modern web applications, exploring emerging technologies,
 and leveraging AI-powered workflows to turn ideas into reality.
 
 <br>
+<a href="https://heming.studio">
+  <img src="https://img.shields.io/badge/HEMING.STUDIO-AA7732?style=for-the-badge&logo=googlechrome&logoColor=black" />
+</a>
 &nbsp;
 <a href="https://www.linkedin.com/in/heming-hanevik/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-168ABB?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
 <a href="mailto:heming.hanevik@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Get_in_Touch-1688D4?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/EMAIL-202A38?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <br><br>
 
